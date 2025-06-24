@@ -1,0 +1,7 @@
+object_detection_yolov5/
+├── yolov5/                        # Cloned YOLOv5 repo
+├── detect.py                      # Wrapper for webcam/video detection
+├── app.py                         # Streamlit interface
+├── requirements.txt
+├── README.md
+└── .gitignore
